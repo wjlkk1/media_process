@@ -7,6 +7,7 @@ import (
 	"log"
 	"os"
 
+	"gitee.com/wjlkk/src/mediainfo"
 	_ "github.com/go-sql-driver/mysql"
 )
 
